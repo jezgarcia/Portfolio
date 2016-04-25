@@ -116,11 +116,11 @@ a:focus {
 
 .navbar-custom .nav li.active a {
     background-color: rgba(255,255,255,.3);
-    color: #fff;/*change all the white to orange*/
+    color: #2ECCFA;/*change all the white to #2ECCFA*/
 }
 
 .navbar-custom .nav li.active a:hover {
-    color: #fff;
+    color: #2ECCFA;
 }
 
 @media(min-width:768px) {
@@ -202,7 +202,7 @@ a:focus {
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
-    color: #fff;
+    color: #2ECCFA;
     background: rgba(255,255,255,.1);
 }
 
